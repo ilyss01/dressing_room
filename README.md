@@ -6,3 +6,10 @@
 * [Романюк Илья](https://github.com/ilyss01)
 * [Зинченко Владислав](https://github.com/The-best13)
 * [Воробьева Марта](https://github.com/marrtta)
+
+Платформа:
+* Android 
+
+Схема приложения:
+* Frontend - [Jetpack Compose](https://developer.android.com/jetpack/compose) для отрисовки интерфейса пользователя, подсказок и руководств для пользователя
+* Backend - [TensorFlow](https://www.tensorflow.org/lite/android), [NNAPI](https://developer.android.com/ndk/guides/neuralnetworks/) нейронная сеть для обработки изображения пользователя, классификация частей тела и смены одежды на нем
