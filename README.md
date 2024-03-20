@@ -6,6 +6,7 @@
 * [Романюк Илья](https://github.com/ilyss01), (тимлид)
 * [Зинченко Владислав](https://github.com/The-best13)
 * [Воробьева Марта](https://github.com/marrtta)
+* [Франчук Мария](https://github.com/MayaRey)
 
 Платформа:
 * Android 
