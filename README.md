@@ -9,8 +9,14 @@
 * [Франчук Мария](https://github.com/MayaRey)
 
 Платформа:
-* Android 
+* Android/iOS
+* Web
+* Desktop
 
-Схема приложения:
-* Frontend - [Jetpack Compose](https://developer.android.com/jetpack/compose) для отрисовки интерфейса пользователя, подсказок и руководств для пользователя
-* Backend - [TensorFlow](https://www.tensorflow.org/lite/android), [NNAPI](https://developer.android.com/ndk/guides/neuralnetworks/) нейронная сеть для обработки изображения пользователя, классификация частей тела и смены одежды на нем
+Архитектура приложения:
+![image](https://github.com/ilyss01/dressing_room/assets/47274578/41660d08-2203-4a92-a423-ca85983d7a25)
+
+Используемые технологии:
+* Frontend - [Flutter](https://flutter.dev/) для отрисовки интерфейса, подсказок и руководств для пользователя
+* Backend - [Python](https://www.python.org/), [CP-VTON](https://arxiv.org/pdf/1807.07688) нейронная сеть для обработки изображения пользователя, классификация частей тела и смены одежды на нем
+
